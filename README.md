@@ -7,4 +7,5 @@ https://www.figma.com/design/Yjs0RCBZHWMPzXI2W5PU6O/Untitled?node-id=0-1&t=4LyQF
  tecnologias utilizadas:figma,pinterest e removdor de fundo.
  maria clara teles
  email: maria.c.silva481@aluno.senai.br
+ 61994207021
 contém carrinho e barra de pesquisa em todas as paginas
